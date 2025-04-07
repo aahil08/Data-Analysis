@@ -4,7 +4,7 @@ As the field of Data Science and Analytics continues to grow and evolve, the var
 
 I invite you to explore each project, learn about the processes and techniques involved, and dive into the associated GitHub repositories by clicking on the titles below. Through these examples, you’ll see how I blend technical expertise with business understanding to transform raw data into actionable insights. Thank you for visiting, and I hope these projects inspire new ideas and possibilities in your own data-driven initiatives.
 
-## [Motor Theft Analysis In New Zealand](https://github.com/aahil08/Motor-Theft-Analysis)
+## [New Zealand Motor Vehicle Theft Analysis](https://github.com/aahil08/Motor-Theft-Analysis)
 ### A Data-Driven Analysis for Enhanced Public Safety.
 ![Nz_Police_Logo](https://github.com/user-attachments/assets/c7f7ab2b-0d17-4272-adc7-0404e36d1a4e)
 
