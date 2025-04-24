@@ -8,11 +8,18 @@ I invite you to explore each project, learn about the processes and techniques i
 ### A Data-Driven Analysis for Enhanced Public Safety.
 ![Nz_Police_Logo](https://github.com/user-attachments/assets/c7f7ab2b-0d17-4272-adc7-0404e36d1a4e)
 
+---
 
-### SITUATION
 
-The New Zealand Police Department wants to raise awareness about motor vehicle thefts. The Report analyzes data on stolen vehicles—focusing on when, what, and where vehicles tend to be stolen—and to provide insights for a public service announcement. This STAR report summarizes the objectives, methodology, analyses, visualizations, and recommendations derived from the dataset.
+| **S**ituation | Motor-vehicle theft is rising nationwide. NZ Police needs decisive evidence to craft a high-impact public-service announcement (PSA) and optimise patrol resources. |
+|---------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **T**ask      | Analyse *when* vehicles are stolen, *what* vehicles are most vulnerable, and *where* thefts cluster; translate findings into clear, actionable guidance for District Commanders and Prevention & Comms teams. |
+| **A**ction    | Processed **58 642** police theft records (2020-24) in MySQL, cleaned 1.7 % nulls/dupes, and built Excel pivots and visuals (bar, heatmap,and scatterplots). Aggregations run via CTEs (`YEAR_AGG`, `MONTH_AGG`, `VEHICLE_TYPE_AGG`, `REGION_RATE`). |
+| **R**esult    | Surfaced *season, location, and vehicle-specific* risk factors (e.g., +18 % Summer spike, Southland 5.2 thefts/1 000 cars). Outputs underpin the **“Summer Secure”** PSA, steering-lock subsidy bid, and density-aware patrol rosters. |
 
-### Actions and Output Value
+---
 
-Drawing on a dataset of over 4,500 stolen vehicles, comprehensive analysis was conducted using MySQL and Excel. By filtering, sorting, and leveraging various Excel statistical functions, the data revealed patterns, trends, and attributes contributing to vehicle thefts. Bar charts, heat maps, scatter plots, and maps provided valuable visual insights, guiding the New Zealand Police Department in formulating an effective prevention campaign.
+
+
+
+
