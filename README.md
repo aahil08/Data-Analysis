@@ -17,7 +17,7 @@
 |---------|----------------|
 | **Projects** | Curated case studies that tackle real or simulated business problems—from margin erosion to crime-risk mapping. Each link jumps straight into the repo so you can clone, run, and adapt. |
 | **Playbooks** | End-to-end workflows: problem framing → data engineering → modelling/analysis → insight visualisation → recommended actions. |
-| **Tech Stack** | A practical blend of MySQL/Postgres, Python (Pandas, scikit-learn, PySpark), Tableau/Power BI, and cloud-native tooling (AWS Lambda, SageMaker). |
+| **Tech Stack** | A practical blend of SQL, Python (Pandas, scikit-learn, PySpark), Tableau/Power BI, and cloud-native tooling (AWS Lambda, SageMaker). |
 | **Learning Paths** | Short notes on what worked, what didn’t, and how you can fast-track similar solutions. |
 
 ---
@@ -42,9 +42,9 @@
 
 ---
 
-## [Amazon Order Analysis: Profit Drivers & Growth Opportunities](https://github.com/aahil08/Amazon-Order-Analysis/tree/main)
+## [Amazon Order Analysis: Profit Drivers & Growth Opportunities](https://github.com/aahil08/Amazon-Order-Analysis)
 ### A stakeholder executive narrative (FY-2019 – FY-2021
-![amazon-logo-on-transparent-background-free-vector](https://github.com/user-attachments/assets/c89904c9-6651-4faf-9e60-3fd4d4206bab)
+![amazon-logo-on-transparent-background-free-vector]
 
 ---
 
